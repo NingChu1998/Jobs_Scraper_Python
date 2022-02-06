@@ -1,0 +1,5 @@
+###### Requirements without Version Specifiers ######
+python-csv
+requests
+beautifulsoup4
+DateTime
