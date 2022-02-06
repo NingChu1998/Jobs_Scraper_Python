@@ -37,5 +37,5 @@ Run the job_scraper.py
 ## Example
 -  Serach "Software intern" in "ATL"
 
-![]()
+![](https://github.com/NingChu1998/Jobs_Scraper_Python/blob/main/job_scraper.gif?raw=true)
 
